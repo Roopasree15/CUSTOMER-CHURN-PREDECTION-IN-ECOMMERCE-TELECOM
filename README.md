@@ -52,28 +52,6 @@ Confusion Matrix
 Precision
 Recall
 F1-Score
-Project Structure
-CUSTOMER-CHURN-PREDECTION-IN-ECOMMERCE-TELECOM/
-│
-├── customer_churn_prediciton.py
-├── README.md
-└── Dataset (if applicable)
-Installation
-Clone the repository:
-
-git clone https://github.com/Roopasree15/CUSTOMER-CHURN-PREDECTION-IN-ECOMMERCE-TELECOM.git
-Navigate to the project directory:
-
-cd CUSTOMER-CHURN-PREDECTION-IN-ECOMMERCE-TELECOM
-Install required packages:
-
-pip install pandas numpy matplotlib seaborn scikit-learn
-Usage
-Run the Python script:
-
-python customer_churn_prediciton.py
-The model will process the dataset, train the machine learning algorithm, and generate churn prediction results.
-
 Business Benefits
 Reduce customer loss
 Improve customer loyalty
